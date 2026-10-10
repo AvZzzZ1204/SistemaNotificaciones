@@ -1,0 +1,9 @@
+# Archivos compilados de Java
+*.class
+
+# Configuración local del editor
+.zed/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
